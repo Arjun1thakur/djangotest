@@ -22,4 +22,3 @@ urlpatterns = [
     path('home/', views.index, name='index'),
 
 ]
-git 
